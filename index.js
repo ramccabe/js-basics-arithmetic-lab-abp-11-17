@@ -13,6 +13,6 @@ You should NOT try to redefine any of the above variables.
 
 //const randomNumber = (Math.random() * 20) + 0;
 
-const randomInteger = Math.floor(Math.random());
+const randomInteger = Math.random(Math.floor));
 
 //const randomUserID = Math.random() * 1000000001) + 1000000020)
